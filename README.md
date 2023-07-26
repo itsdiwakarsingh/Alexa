@@ -1,10 +1,9 @@
-# Alexa
- import speech_recognition as sr 
- import pyttsx3 
+# Alexa import speech_recognition as sr 
+import pyttsx3 
  import pywhatkit 
- import rotatescreen 
+import rotatescreen
  import datetime 
- import wikipedia 
+import wikipedia 
  import pyjokes 
  import webbrowser 
  import sys 
