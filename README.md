@@ -53,7 +53,7 @@ Start interacting by saying "Ok Google" followed by your command. For example:
 * Some commands might require specific applications to be installed on your system (e.g., Spotify, Discord).
 
 > [!IMPORTANT]
-> You also require to add application specific address in code directly.
+> You also require to add application specific address in code directly yourself.
 
 
 ## 🤖 Technologies Used
